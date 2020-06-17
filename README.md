@@ -1,5 +1,5 @@
 # java-baisc-
-这是一篇复习用的共层，内部包含了
+这是一篇复习用的spring boot工程，内部包含了
 aop、
 匿名内部类、
 bio【包括bio socket】、
