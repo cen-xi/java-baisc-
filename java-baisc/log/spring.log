@@ -1,0 +1,8 @@
+2020-06-17 00:54:56.331 = [main] = INFO  = com.example.javabaisc.log.LoggingTest - Starting LoggingTest on DESKTOP-1PCC9LL with PID 100 (started by 岑远明 in C:\Users\cen\Desktop\java-baisc)
+2020-06-17 00:54:56.334 = [main] = INFO  = com.example.javabaisc.log.LoggingTest - No active profile set, falling back to default profiles: default
+2020-06-17 00:54:57.945 = [main] = INFO  = o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-17 00:54:58.233 = [main] = INFO  = com.example.javabaisc.log.LoggingTest - Started LoggingTest in 2.368 seconds (JVM running for 3.446)
+2020-06-17 00:54:58.461 = [main] = INFO  = com.example.javabaisc.log.LoggingTest - info级别的日志--33333
+2020-06-17 00:54:58.462 = [main] = WARN  = com.example.javabaisc.log.LoggingTest - warn级别的日志--44444444
+2020-06-17 00:54:58.462 = [main] = ERROR = com.example.javabaisc.log.LoggingTest - error级别的日志--5555555
+2020-06-17 00:54:58.475 = [SpringContextShutdownHook] = INFO  = o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

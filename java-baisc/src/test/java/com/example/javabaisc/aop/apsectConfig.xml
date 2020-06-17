@@ -1,0 +1,12 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.springframework.org/schema/beans" xmlns:context="http://www.springframework.org/schema/context" xmlns:aop="http://www.springframework.org/schema/aop" xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.2.xsd ">-->
+
+<!--    &lt;!&ndash; 准备工作: 导入aop(约束)命名空间 &ndash;&gt;-->
+<!--&lt;!&ndash;    &lt;!&ndash; 1.配置目标对象 &ndash;&gt;&ndash;&gt;-->
+<!--    <bean name="Mtest" class="com.example.javabaisc.aop.Mtest" ></bean>-->
+<!--&lt;!&ndash;    &lt;!&ndash; 2.配置通知对象 &ndash;&gt;&ndash;&gt;-->
+<!--    <bean name="myAdvice" class="com.example.javabaisc.aop.aspect.MyAspect2" ></bean>-->
+<!--    &lt;!&ndash; 3.开启使用注解完成织入 &ndash;&gt;-->
+<!--    <aop:aspectj-autoproxy></aop:aspectj-autoproxy>-->
+
+<!--</beans>-->
